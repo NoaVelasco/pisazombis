@@ -4,9 +4,9 @@ Este es un prototipo de un juego arcade en el que un personaje (Mikecrack, de Lo
 Programado en Python 3.11.0 con PyGame 2.5.2 / PyGame-ce 2.3.2.
 
 ## Controles
-`ESPACIO` para empezar a jugar
-⬅️ ➡️ para mover al personaje
-`ESCAPE` para volver a la pantalla de inicio durante el juego
+`ESPACIO` para empezar a jugar  
+⬅️ ➡️ para mover al personaje  
+`ESCAPE` para volver a la pantalla de inicio durante el juego  
 
 ![pisazombis01](promo/pisazombis-01.jpg)
 ![pisazombis02](promo/pisazombis-02.jpg)
